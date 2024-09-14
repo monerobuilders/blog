@@ -2,7 +2,7 @@
 layout: post
 title:  "First blog post"
 date:   2024-09-14 16:00:00 +0300
-categories: none
+categories: misc
 ---
 
 # Welcome
